@@ -22,7 +22,7 @@ bun run dev
 ```
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, Redux, Vite, TailwindCSS
 
 **Server:** Bun, JSON server
 
