@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "01ad",
+      "name": "larva"
+    },
+    {
+      "id": "4437",
+      "name": "silk"
+    },
+    {
+      "id": "058e",
+      "name": "in-joke"
+    },
+    {
+      "id": "e5ed",
+      "name": "marathon"
+    },
+    {
+      "id": "5bb7",
+      "name": "repeat"
+    },
+    {
+      "id": "3345",
+      "name": "technologist"
+    },
+    {
+      "id": "ffe2",
+      "name": "grouper"
+    }
+  ],
+  "albums": [
+    {
+      "id": "74f9",
+      "userId": "1",
+      "title": "Fantastic Steel Bacon"
+    },
+    {
+      "id": "05b3",
+      "userId": "1",
+      "title": "Intelligent Soft Shirt"
+    }
+  ],
+  "photos": [
+    {
+      "id": "af0a",
+      "albumId": "74f9",
+      "url": "https://loremflickr.com/3326/3740?lock=1212265451582386"
+    },
+    {
+      "id": "02ac",
+      "albumId": "05b3",
+      "url": "https://picsum.photos/seed/SO2Ad4bl/2408/962"
+    },
+    {
+      "id": "42bc",
+      "albumId": "74f9",
+      "url": "https://picsum.photos/seed/8df2oZpbb5/2696/2591"
+    },
+    {
+      "id": "703e",
+      "albumId": "05b3",
+      "url": "https://loremflickr.com/943/2765?lock=6601981206513740"
+    }
+  ]
+}
